@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Gustavo Michaloski and I'm a begginer programmer from Rio de Janeiro, Brazil!</p>
+<p align="left">My name is Gustavo Michaloski and I'm a developer from Rio de Janeiro, Brazil!</p>
+<p align="left">I code because I love creating things and turning ideas into reality!</p>
 
 ###
 

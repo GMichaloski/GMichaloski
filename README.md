@@ -1,9 +1,9 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hello!</h1>
 
 ###
 
-<p align="left">My name is Gustavo Michaloski and I'm a developer from Rio de Janeiro, Brazil!</p>
-<p align="left">I code because I love creating things and turning ideas into reality!</p>
+<p align="left">My name is Gustavo Michaloski, and I'm a developer from Rio de Janeiro, Brazil!</p>
+<p align="left">I code because I love creating things and turning ideas into reality! </p>
 
 ###
 
@@ -11,7 +11,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning web development<br>🎯 Goals: Become a fullstack dev and complete college<br>🎲 Fun fact: I'm a big Vasco da Gama ✠ Fan and a gym enthusiast</p>
+<p align="left">
+✨ I wrote my first code in 2019
+<br>
+🎯 My dream is to inspire people to follow their freedom and to leave the world better than I found it 
+<br>
+📚 I'm currently learning system design
+<br>
+🎨 I see Steve Jobs as a personal reference
+<br>
+🏳️ I think social media is really bad for our society, so I avoid using it.
+<br>
+🎲 I'm a huge Vasco da Gama fan
+</p>
 
 ###
 
@@ -31,13 +43,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gMichaloski" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=gMichaloski" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">Talk to me:</h2>
 
 ###
@@ -50,9 +55,6 @@
   </a>
   <a href="t.me/gsmclsk" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/gusmichaloski/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 

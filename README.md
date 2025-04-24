@@ -20,8 +20,6 @@
 <br>
 🎨 I see Steve Jobs as a personal reference
 <br>
-🏳️ I think social media is really bad for our society, so I avoid using it.
-<br>
 🎲 I'm a huge Vasco da Gama fan
 </p>
 
